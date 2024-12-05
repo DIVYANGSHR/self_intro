@@ -1,0 +1,100 @@
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+header, nav, footer {
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.main {
+    width: 69%;
+    margin: auto;
+    padding: 25px;
+}
+
+.education {
+    background: white;
+    padding: 25px;
+    margin: 30px ;
+}
+
+.education h1 {
+
+    color: orangered;
+    text-align:left;
+}
+
+
+.COLLAGE{
+    border-bottom: 1px solid #282323;
+    padding: 10px;
+}
+
+.COLLAGE:last-child {
+    border-bottom: none;
+}
+
+.COLLAGE h1 {
+    margin: 0;
+    color: #333;
+}
+
+.COLLAGE date {
+    color: #777;
+    font-style: italic;
+}
+
+.COLLAGE .description {
+    margin: 10px 0 0;
+}
+.INTERMIDIAT {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.INTERMIDIAT:last-child {
+    border-bottom: none;
+}
+
+.INTERMIDIATh2 {
+    margin: 0;
+    color: #333;
+}
+
+.INTERMIDIAT.date {
+    color: #777;
+    font-style: italic;
+}
+
+.INTERMIDIAT.description {
+    margin: 10px ;
+}
+.HIGHSCHOOL {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.HIFHSCHOOL:last-child {
+    border-bottom: none;
+}
+
+.HIGHSCHOOLh3 {
+    margin: 0;
+    color: #333;
+}
+
+.HIFHSCHOOL.date {
+    color: #777;
+    font-style: italic;
+}
+
+.HIGHSCHOOL.description {
+    margin: 10px;
+}
